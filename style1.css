@@ -1,0 +1,140 @@
+.one
+{
+  margin-left:100px;
+  margin-top:15px;
+}
+
+ul{
+font-family: 'Open Sans', serif;
+letter-spacing: 2px;
+}
+li a {
+  text-decoration: none;
+}
+.b
+{
+    margin-left:700px;
+}
+#a
+{
+ margin-right:30px;
+  margin-top:15px;
+  display:inline-block;
+color:grey;
+font-size:10px;
+}
+.active
+{
+  display:block;
+
+  text-align:center;
+  border: 2px solid;
+  padding:10px 20px;
+}
+li .active:hover{
+  background-color: black;
+  color:white;
+}
+li a:hover{
+  color:black;
+}
+.back{
+  background-color:#1c142e;
+  display: block;
+  height:375px;
+  z-index: 1;
+  color:white;
+  padding:50px 0px 50px 50px;
+  line-height: 4px;
+  letter-spacing: normal;
+  line-height: 10px;
+  font-family: Serif;
+  overflow:hidden;
+}
+
+#four
+{
+  float:right;
+  margin-top:0;
+  z-index: 3;
+  position: relative;
+  height:460px;
+  padding:0px 0px 0px 0px;
+width:420px;
+top:-110px;
+overflow: inherit;
+}
+#two{
+
+  margin-left:85px;
+  margin-top:90px;
+
+}
+body{
+    margin:0;
+    width:100%;
+    white-space: nowrap;
+}
+.th:hover{
+  background-color: white;
+  color:#1c142e;
+}
+table{
+  width:100%;
+  text-align: left;
+}
+.six
+{
+  color:#1c142e;
+  line-height: 2px;
+  font-family: 'Open Sans', serif;
+}
+p
+{
+
+  font-weight: 100;
+  font-size:17px;
+  font-family: 'Open Sans', serif;
+  line-height: 20px;
+}
+.five{
+  height:580px;
+  box-sizing: border-box;
+  position: relative;
+}
+.container{
+  font-size: 40px;
+  margin-left:145px;
+  margin-top:305px;
+}
+.seven{
+  border:1px solid;
+  background-color: #1c142e;
+  margin-left: 145px;
+  margin-right: 170px;
+height:180px;
+overflow:hidden;
+z-index:1;
+  display:block;
+  background-image: url("file:///C:/Users/Dell/Desktop/web%20development/insure-landing-page-master/images/bg-pattern-how-we-work-desktop.svg");
+ background-repeat: no-repeat;
+  background-position: right;
+}
+.sevenone{
+  padding-left:70px;
+  padding-top:30px;
+  color:white;
+  line-height:20px;
+  font-size:20px;
+  position: relative;
+  z-index: 1;
+}
+.seventwo{
+  float:right;
+  border:1px solid;
+  margin-right:40px;
+  position: absolute;
+  right:310px;
+  top:-110px;
+  z-index:2;
+}
